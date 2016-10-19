@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 """
-wsgiwatch
----------
-Synchronously rebuild assets for a WSGI application in response to source file changes.
+peewee-ip4r
+-----------
+
+Support for the ip4r extensions to PostgreSQL for Peewee.
 """
 
 from distutils.core import setup
